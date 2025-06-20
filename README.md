@@ -8,11 +8,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently teaching:
     - APCSP [AP Computer Science Principals](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course)
     - [Computer Programming I](https://docs.google.com/document/d/1pDfwKi0PS9Tk1ORPs0IGrZOiXV3v4Qt94Xaxe_Ijss4/edit#heading=h.3tdxmlmjuufh)
+    - Cybersecurity 1
 - 🌱 I’m currently learning: 
-    - [Java](https://www.java.com/en/) ...*dusting off old skills*
-    - [Gleam](https://gleam.run/) for a personal project
+    - [Cybersecurity skills](https://cyber.org/) ...*dusting off old skills*
 - 👯 I’m looking to collaborate on: 
-    - Teaching CS in inspiring ways, that are quintessentally inclusive
+    - Teaching CS + Cyber in inspiring ways, that are quintessentally inclusive
+    - Making content approachable, but still exiting the sandbox quickly
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...
     - Digital Fabrication, of any kind
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
     - Hiking, camping and National Parks of the USA
 <!-- - 📫 How to reach me:  -->
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: This is my 15th year teaching high school!
+- ⚡ Fun fact: This is my 16th year teaching high school!
